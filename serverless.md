@@ -5,6 +5,7 @@
 ```console
   $ mkdir serverless-tutorial
 ```
+```console
   $ cd serverless-tutorial
   $ vim .gitignore
   # .gitignore 
@@ -12,8 +13,10 @@
   yarn-error.log
   .serverless
   secret.js
+```
 
+```console
   $ npm init -y 
   $ sudo npm i -g express
   $ sudo npm install -g npm 
-'''
+```
