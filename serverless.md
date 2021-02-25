@@ -27,3 +27,8 @@ $ sudo npm i -g serverless-mysql
 $ sudo npm i -g serverless-offline
 $ sudo npm i -g serverless-offline-scheduler
 ```
+
+```
+node_module 경로
+/usr/local/lib/node_modules/yarn
+```
