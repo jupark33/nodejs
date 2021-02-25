@@ -1,3 +1,4 @@
+출처 : https://blog.cookapps.io/frameworks/serverless/tutorial-serverless-express-aurora/#step-1-package-%EC%84%A4%EC%A0%95
 
 # AWS 루트사용자 프리티어 계정 생성 
 
