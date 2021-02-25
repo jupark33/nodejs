@@ -32,3 +32,9 @@ $ sudo npm i -g serverless-offline-scheduler
 node_module 경로
 /usr/local/lib/node_modules/yarn
 ```
+
+```
+$ sudo npm install --global yarn
+$ yarn
+
+```
