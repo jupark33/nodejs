@@ -16,7 +16,8 @@
 ```
 
 ```console
-  $ npm init -y 
-  $ sudo npm i -g express
-  $ sudo npm install -g npm 
+$ npm init -y 
+$ sudo npm i -g express
+$ sudo npm install -g npm 
+$ sudo npm i -g aws-serverless-express  
 ```
