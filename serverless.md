@@ -38,3 +38,11 @@ $ sudo npm install --global yarn
 $ yarn dev
 
 ```
+
+```
+http://localhost:3000/api/ping
+
+{
+  "ping": "pong~"
+}
+```
