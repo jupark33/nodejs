@@ -35,6 +35,6 @@ node_module 경로
 
 ```
 $ sudo npm install --global yarn
-$ yarn
+$ yarn dev
 
 ```
